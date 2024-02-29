@@ -56,7 +56,7 @@ p {
   .time-box {
     margin-top: 50px;
     background-color: #dadce6a2;
-    padding: 50px;
+    padding:none;
     border-radius: 10px;
     margin: 5px;
     font-size: 16px;
