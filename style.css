@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(10, 10, 173);
+    background-color: rgb(205, 217, 230);
 }
 
 img {
@@ -41,7 +41,7 @@ p {
     margin-right: 1rem;
     width: 6rem;
     height: 7rem;
-    background: rgb(54, 54, 82);
+    background: rgb(165, 165, 173);
     text-align: center;
     border-radius: 10px;
     color: rgb(204, 204, 180);
@@ -56,7 +56,7 @@ p {
   .time-box {
     margin-top: 50px;
     background-color: #dadce6a2;
-    padding:none;
+    padding: 50px;
     border-radius: 10px;
     margin: 5px;
     font-size: 16px;
